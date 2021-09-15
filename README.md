@@ -64,3 +64,10 @@ MiniMagick must be installed when reading image files to set up the products. Th
 run for categories to be added.
   
 </details>
+
+<br>
+<br>
+
+<div align="center">
+  <img width=100 src="https://github.com/vb00232/subs/blob/development/app/assets/images/Icon.png">
+</div>
