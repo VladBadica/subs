@@ -89,4 +89,4 @@ gem 'twitter'
 #paperclip gem for image uploading
 gem 'paperclip', '~> 5.0.0'
 
-gem 'image_processing', '~> 1.2'
+gem 'image_processing', '~> 1.12'
